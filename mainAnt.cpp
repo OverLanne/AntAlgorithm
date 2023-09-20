@@ -4,7 +4,7 @@
 *                                                                                           *
 * Project Name  : \Курсы_С++\AntColony                                                      *
 * File Name     : ЛетняяПрактикаМуравьиныйАлгоритм.cpp                                      *
-* Programmer(s) : Шувалов Е.М.						                                                  *
+* Programmer(s) : Шувалов Е.М.						                                        *
 * Modifyed By   :                                                                           *
 * Created       : 15/07/22                                                                  *
 * Last Revision : 23/07/22                                                                  *
